@@ -70,5 +70,3 @@ Se ha implementado un middleware de manejo de errores centralizado que captura y
 ### Cierre Gracioso del Servidor
 
 El servidor maneja eventos de cierre para asegurarse de cerrar adecuadamente la conexión con la base de datos al salir.
-
-¡Disfruta explorando y desarrollando tu backend de productos con Node.js y PostgreSQL!
