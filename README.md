@@ -67,6 +67,6 @@ El proyecto utiliza middleware para validar la clave de API en cada solicitud. A
 
 Se ha implementado un middleware de manejo de errores centralizado que captura y registra los errores. Si ocurre un error durante el procesamiento de una solicitud, se enviará una respuesta de estado 500 con el mensaje "Something went wrong!".
 
-### Cierre Gracioso del Servidor
+### Cierre del Servidor
 
 El servidor maneja eventos de cierre para asegurarse de cerrar adecuadamente la conexión con la base de datos al salir.
